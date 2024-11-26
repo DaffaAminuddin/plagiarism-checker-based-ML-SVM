@@ -4,7 +4,7 @@
 
 Dataset menggunakan [PAWS (Paraphrase Word Scrambling)](https://www.kaggle.com/datasets/thedevastator/the-paws-dataset-for-paraphrase-identification)
 
-Proyek ini menggunakan algoritma **SVM** linear untuk memprediksi plagiarism dalam sebuah text menggunakan ekstrak fitur text to vectorize.
+Proyek ini menggunakan model dari hasil train algoritma **SVM** [model.pkl](https://github.com/DaffaAminuddin/plagiarism-checker-based-ML-SVM/blob/main/model.pkl) linear untuk memprediksi plagiarism dalam sebuah text menggunakan ekstrak fitur text to vectorize.
 
 ## Deskripsi Proyek
 
